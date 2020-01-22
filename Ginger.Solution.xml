@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="e4a0b44f-33d5-4afb-bc1f-edc9e523f3f2" ItemType="Solution" CreatedBy="Sudeepthi.Y" Created="201911150559" GingerVersion="3.5.0.0" Version="5" LastUpdateBy="Satvik.b" LastUpdate="202001061254" />
+<Solution AlmType="Jira" Guid="e4a0b44f-33d5-4afb-bc1f-edc9e523f3f2" Name="baseline test" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ApplicationPlatforms>
+<ApplicationPlatform AppName="MyWebApp" CoreGUID="00000000-0000-0000-0000-000000000000" Guid="9e71080f-8e0f-4e68-bcf0-f360046e4403" GUID="00000000-0000-0000-0000-000000000000" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" />
+<ApplicationPlatform AppName="MyWebServicesApp" CoreGUID="00000000-0000-0000-0000-000000000000" Description="WebServices Application" Guid="7c6eff01-952a-44d6-ac29-3defd5613674" GUID="00000000-0000-0000-0000-000000000000" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="WebServices" />
+</ApplicationPlatforms>
+
+<ExecutionLoggerConfigurationSetList>
+<ExecutionLoggerConfiguration ExecutionLoggerConfigurationExecResultsFolder="~\ExecutionResults" ExecutionLoggerConfigurationIsEnabled="True" ExecutionLoggerConfigurationMaximalFolderSize="250" Guid="fea8a78f-21e0-4d8c-aaf9-abeae8c02520" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" SelectedDataRepositoryMethod="TextFile" Seq="0" />
+</ExecutionLoggerConfigurationSetList>
+
+<HTMLReportsConfigurationSetList>
+<HTMLReportsConfiguration Guid="4cad9a2e-4a41-442d-afb0-3e5a704a1234" HTMLReportConfigurationMaximalFolderSize="0" HTMLReportsFolder="~\HTMLReports" HTMLReportTemplatesSeq="1" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" Seq="0" />
+</HTMLReportsConfigurationSetList>
+</Solution></GingerRepositoryItem>

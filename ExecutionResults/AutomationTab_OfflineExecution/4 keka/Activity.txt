@@ -1,0 +1,1 @@
+{"Seq":4,"GUID":"8051b11b-f737-4774-ae25-37157e78dc8d","ActivityName":"keka","StartTimeStamp":"2020-01-07T09:13:34.6613196Z","EndTimeStamp":"2020-01-07T09:13:40.7597941Z","Elapsed":5978,"RunStatus":"Passed","VariablesBeforeExec":[],"VariablesAfterExec":[]}

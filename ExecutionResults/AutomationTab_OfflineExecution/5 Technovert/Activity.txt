@@ -1,0 +1,1 @@
+{"Seq":5,"GUID":"36684c83-a4da-4c85-856d-d7165a9eb7cd","ActivityName":"Technovert","StartTimeStamp":"2020-01-07T09:13:40.8786696Z","EndTimeStamp":"2020-01-07T09:14:15.3615062Z","Elapsed":34365,"RunStatus":"Passed","VariablesBeforeExec":[],"VariablesAfterExec":[]}

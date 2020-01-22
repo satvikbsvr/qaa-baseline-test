@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="f834eb33-bac0-414b-8491-84d278ceb9d0" ItemType="RunSetConfig" CreatedBy="Sudeepthi.Y" Created="201911201039" GingerVersion="3.4.0.0" Version="1" LastUpdateBy="Sudeepthi.Y" LastUpdate="201911201039" />
+<RunSetConfig Guid="f834eb33-bac0-414b-8491-84d278ceb9d0" Name="Default Calendar" ParentGuid="00000000-0000-0000-0000-000000000000">
+<GingerRunners>
+<GingerRunner Guid="a817874a-7735-4180-b56d-20f68f1f633a" Name="Runner 1" ParentGuid="00000000-0000-0000-0000-000000000000" RunOption="ContinueToRunall" />
+</GingerRunners>
+</RunSetConfig></GingerRepositoryItem>

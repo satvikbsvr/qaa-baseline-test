@@ -1,0 +1,1 @@
+{"Seq":1,"Name":"Runner 1","GUID":"a817874a-7735-4180-b56d-20f68f1f633a","EnvironmentName":"Default","StartTimeStamp":"2020-01-20T10:56:22.7883974Z","EndTimeStamp":"2020-01-20T10:57:22.3140012Z","Elapsed":59.52,"ApplicationAgentsMappingList":["gmail automation_:_MyWebApp"]}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="f834eb33-bac0-414b-8491-84d278ceb9d0" ItemType="RunSetConfig" CreatedBy="Sudeepthi.Y" Created="201911201039" GingerVersion="3.5.0.0" Version="4" LastUpdateBy="Satvik.b" LastUpdate="202001211220" />
+<RunSetConfig Guid="f834eb33-bac0-414b-8491-84d278ceb9d0" Name="Default Calendar" ParentGuid="00000000-0000-0000-0000-000000000000">
+<GingerRunners>
+<GingerRunner Guid="a817874a-7735-4180-b56d-20f68f1f633a" Name="Runner 1" ParentGuid="00000000-0000-0000-0000-000000000000" RunOption="ContinueToRunall">
+<ApplicationAgents>
+<ApplicationAgent AgentName="gmail automation" AppName="MyWebApp" Guid="6c151d1d-b32e-498c-ad9c-867937a1a39a" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ApplicationAgents>
+
+<BusinessFlowsRunList>
+<BusinessFlowRun BusinessFlowGuid="551d8947-5b2b-4323-a1df-64cca067d6d3" BusinessFlowInstanceGuid="e16c4e0c-eea9-4a17-b3cc-506adf01084b" BusinessFlowIsActive="True" BusinessFlowName="baseline test set" Guid="21a58fe6-78f2-4f2c-af32-42abb89c6f43" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<BusinessFlowRun BusinessFlowGuid="551d8947-5b2b-4323-a1df-64cca067d6d3" BusinessFlowInstanceGuid="6110bfe2-6490-4047-bf62-6326d4c7fd99" BusinessFlowIsActive="True" BusinessFlowName="baseline test set" Guid="80d7d2d5-0fd8-4eda-89af-f5bb97e36a24" ParentGuid="00000000-0000-0000-0000-000000000000" />
+<BusinessFlowRun BusinessFlowGuid="551d8947-5b2b-4323-a1df-64cca067d6d3" BusinessFlowInstanceGuid="b8e4c97f-8792-4380-a6b1-41c1473819c7" BusinessFlowIsActive="True" BusinessFlowName="baseline test set" Guid="d2c74cc5-c49c-4199-a69b-acac8139afea" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</BusinessFlowsRunList>
+</GingerRunner>
+</GingerRunners>
+</RunSetConfig></GingerRepositoryItem>

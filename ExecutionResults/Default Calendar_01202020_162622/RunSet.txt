@@ -1,0 +1,1 @@
+{"Name":"Default Calendar","StartTimeStamp":"2020-01-20T10:56:22.777436Z","EndTimeStamp":"2020-01-20T10:57:22.3169954Z","GUID":"f834eb33-bac0-414b-8491-84d278ceb9d0","GingerVersion":"3.5.1.1","MachineName":"SATHVIK-LAPTOP","ExecutedbyUser":"Satvik.b","Elapsed":59.538}
